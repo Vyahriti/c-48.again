@@ -12,7 +12,7 @@ function preload() {
   harryImg = loadAnimation("assets/hp_1.png", "assets/hp_1.png")
   voldemortImg = loadImage("assets/voldemort.png")
   dementorImg = loadImage("assets/dementor.png")
-  bgImg = loadImage("/assets/BG.JPG")
+  bgImg = loadImage("assets/BG.JPG")
   boxImg = loadImage("assets/box.png")
   killspellImg = loadImage("assets/avada-kedavra.png")
   patronusspellImg = loadImage("assets/patronus.png")
